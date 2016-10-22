@@ -25,6 +25,9 @@ deliverables: '1 HTML file, 4 CSS files'
   - *Greens:* `#d1e0bf`, `#6b7e54`, `#51603f`
   - *Reds:* `#f2bcbc`, `#b92828`, `#991919`
   - *Blues:* `#d2d6f0`, `#1d38da`, `#38448e`
+- *Gridifier settings:* defaults
+- *Typografier settings:* defaults
+- *Modulifier settings:* select all
 
 ---
 
