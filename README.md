@@ -1,6 +1,6 @@
 ---
 summary: 'Use HTML table elements to create a calendar of events.'
-time: '1 hour'
+time: '2 hours'
 deliverables: '1 HTML file, 4 CSS files'
 ---
 
